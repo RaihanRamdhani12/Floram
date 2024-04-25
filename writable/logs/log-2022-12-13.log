@@ -1,0 +1,345 @@
+CRITICAL - 2022-12-13 00:24:37 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 00:24:56 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 00:25:18 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 01:22:37 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:01:49 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:09:16 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:10:28 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:12:20 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:13:03 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:13:10 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:14:43 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:15:12 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 21.
+ 1 APPPATH\Controllers\RajaOngkir.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 21, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:15:25 --> Undefined variable: bekasi
+in APPPATH\Views\cart.php on line 142.
+ 1 APPPATH\Views\cart.php(142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: bekasi', 'APPPATH\\Views\\cart.php', 142, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\cart.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('cart', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(49): view('cart', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:15:33 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:19:37 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:19:55 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:20:17 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:20:45 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:22:05 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:22:24 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:24:18 --> Undefined variable: bekasi
+in APPPATH\Views\cart.php on line 142.
+ 1 APPPATH\Views\cart.php(142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: bekasi', 'APPPATH\\Views\\cart.php', 142, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\cart.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('cart', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(49): view('cart', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:24:31 --> Undefined variable: provinsi
+in APPPATH\Views\cart.php on line 145.
+ 1 APPPATH\Views\cart.php(145): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: provinsi', 'APPPATH\\Views\\cart.php', 145, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\cart.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('cart', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(49): view('cart', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:26:50 --> Undefined variable: bekasi
+in APPPATH\Views\cart.php on line 142.
+ 1 APPPATH\Views\cart.php(142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: bekasi', 'APPPATH\\Views\\cart.php', 142, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\cart.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('cart', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(49): view('cart', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:27:12 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:28:56 --> Undefined property: stdClass::$city_id
+in APPPATH\Views\cart.php on line 142.
+ 1 APPPATH\Views\cart.php(142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$city_id', 'APPPATH\\Views\\cart.php', 142, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\cart.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('cart', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(49): view('cart', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:32:30 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:35:52 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:37:00 --> Undefined property: App\Controllers\RajaOngkir::$apikey
+in APPPATH\Controllers\RajaOngkir.php on line 112.
+ 1 APPPATH\Controllers\RajaOngkir.php(112): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\RajaOngkir::$apikey', 'APPPATH\\Controllers\\RajaOngkir.php', 112, [...])
+ 2 APPPATH\Controllers\RajaOngkir.php(15): App\Controllers\RajaOngkir->bekasi('province')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:38:14 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:40:03 --> Undefined variable: bekasi
+in APPPATH\Views\cart.php on line 142.
+ 1 APPPATH\Views\cart.php(142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: bekasi', 'APPPATH\\Views\\cart.php', 142, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\cart.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('cart', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(49): view('cart', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:45:49 --> Undefined variable: bekasi
+in APPPATH\Views\cart.php on line 142.
+ 1 APPPATH\Views\cart.php(142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: bekasi', 'APPPATH\\Views\\cart.php', 142, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\cart.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('cart', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(49): view('cart', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:46:11 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 02:48:37 --> Undefined property: stdClass::$results
+in APPPATH\Controllers\RajaOngkir.php on line 20.
+ 1 APPPATH\Controllers\RajaOngkir.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$results', 'APPPATH\\Controllers\\RajaOngkir.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 20:35:52 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 20:42:59 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 20:50:50 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 21:10:34 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 21:11:50 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 22:52:20 --> Object of class CodeIgniterCart\Cart could not be converted to string
+in APPPATH\Views\cart.php on line 370.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('cart', [], true)
+ 4 APPPATH\Controllers\RajaOngkir.php(51): view('cart', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

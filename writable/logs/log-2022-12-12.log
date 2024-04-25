@@ -1,0 +1,35 @@
+CRITICAL - 2022-12-12 20:41:06 --> Undefined index: berat
+in APPPATH\Views\cart.php on line 99.
+ 1 APPPATH\Views\cart.php(99): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: berat', 'APPPATH\\Views\\cart.php', 99, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\cart.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('cart', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(49): view('cart', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cart()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-12 21:02:59 --> Undefined property: stdClass::$origin_details
+in APPPATH\Views\hasil.php on line 20.
+ 1 APPPATH\Views\hasil.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$origin_details', 'APPPATH\\Views\\hasil.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('hasil', [], true)
+ 5 APPPATH\Controllers\RajaOngkir.php(96): view('hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\RajaOngkir->cek_ongkir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RajaOngkir))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-12 21:51:00 --> mysqli_sql_exception: Column 'username' cannot be null in C:\xampp\htdocs\floram\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\floram\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\floram\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\floram\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\floram\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\floram\app\Models\ModelLogin.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\floram\app\Controllers\Home.php(285): App\Models\ModelLogin->ubah_username(Array, NULL)
+#6 C:\xampp\htdocs\floram\system\CodeIgniter.php(927): App\Controllers\Home->ubah_username_proses()
+#7 C:\xampp\htdocs\floram\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\floram\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\floram\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
